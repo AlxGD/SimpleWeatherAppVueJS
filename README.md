@@ -7,7 +7,7 @@ weatherapi.com was used!
 
 ### Some comments in portuguese to help me (and other beginners)
 ```
-wer're all learning her
+wer're all learning here
 ```
 
 ### Consider me as a junior! (hope this ages well)
