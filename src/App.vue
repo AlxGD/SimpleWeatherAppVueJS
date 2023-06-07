@@ -1,18 +1,22 @@
-<template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
-</template>
+
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import WeatherApp from './components/WeatherApp.vue';
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
-  }
+    WeatherApp,
+  },
 }
 </script>
+
+<template>
+  <div id="app">
+    <WeatherApp />
+  </div>
+</template>
+
 
 <style>
 #app {

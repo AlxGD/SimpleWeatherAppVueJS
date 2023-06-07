@@ -1,24 +1,21 @@
-# weatherappvue
+# Weather App!
 
-## Project setup
+## A very simples vue.JS app to exercise using APIs!
 ```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
+weatherapi.com was used!
 ```
 
-### Compiles and minifies for production
+### Some comments in portuguese to help me (and other beginners)
 ```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
+wer're all learning her
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Consider me as a junior! (hope this ages well)
+```
+https://www.linkedin.com/in/alexandre-giachetta-delgado-46b380123/
+```
+
+### Thank You!
+```
+Alexandre G Delgado
+```
